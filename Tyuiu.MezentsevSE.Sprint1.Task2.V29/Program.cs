@@ -15,9 +15,9 @@ namespace Tyuiu.MezentsevSE.Sprint1.Task2.V29
             Console.Title = "Спринт #1| Выполнил: Мезенцев С.Е. | ИИПб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Алгоритмы линейной структуры                                      *");
+            Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
             Console.WriteLine("* Задание #2                                                              *");
-            Console.WriteLine("* Вариант #29                                                              *");
+            Console.WriteLine("* Вариант #29                                                             *");
             Console.WriteLine("* Выполнил Мезенцев Семён Евгеньевич| ИИПб-23-2                           *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
