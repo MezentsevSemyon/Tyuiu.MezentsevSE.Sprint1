@@ -25,7 +25,7 @@ namespace Tyuiu.MezentsevSE.Sprint1.Task5.V6
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine(" Решение = " + ds.Calculate(k));
+            Console.WriteLine(" Ответ = " + ds.Calculate(k));
 
             Console.ReadKey();
         }
